@@ -23,5 +23,6 @@ public class Main {
         System.out.println(array.existElement(11));
         System.out.println(array.getElementAt(6));
 
+        System.out.println(array.existsElementRecursive(7));
     }
 }
